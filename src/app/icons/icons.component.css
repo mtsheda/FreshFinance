@@ -1,0 +1,31 @@
+app-put-client-first{
+
+    width: 30%;
+    height: 100%;
+    border: 1px solid rgb(202, 200, 200);
+    background-color: rgb(248, 240, 240);
+    align-items: center;    
+    padding: 1%;
+    display: flex;
+    gap: .5em;
+   
+}
+
+.topRowIcons{
+
+    
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    
+   
+    
+}
+
+.BottomRowIcons{
+
+    
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+}

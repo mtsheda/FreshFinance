@@ -1,0 +1,29 @@
+
+app-advice{
+
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: flex-end;
+    justify-items: flex-end;
+   
+}
+
+app-icons{
+
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    gap: 2em;
+    flex-direction: column;
+    padding-right: 15%;
+}
+
+app-bottm-buttons{
+    padding-top: 5.5%;
+    height: 10%;
+    display: flex;
+    gap: 1em;
+}
+

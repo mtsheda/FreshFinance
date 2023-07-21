@@ -1,0 +1,13 @@
+a{
+
+    color: black;
+    text-decoration: none;
+    font-size: .7em;
+    gap: 2em;
+}
+
+.myLinks{
+
+    display: flex;
+    gap: 1em;
+}

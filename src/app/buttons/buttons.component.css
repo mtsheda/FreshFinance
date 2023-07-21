@@ -1,0 +1,18 @@
+button{
+
+    width: 15%;
+    height: 3em;
+    border-radius: 45px;
+    border: none;
+    color: white;
+    background-color: rgb(9,142,160);
+}
+.button2{
+
+    width: 15%;
+    height: 3em;
+    border-radius: 45px;
+    border: 1px solid blue;
+    color: blue;
+    background-color: transparent;
+}

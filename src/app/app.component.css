@@ -1,0 +1,35 @@
+app-top-part{
+
+   background-image:linear-gradient(to right,white ,transparent),url(../assets/black-and-white-bussines-1024x531.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+app-bottom-part{
+
+    
+    height: 45%;
+    display: flex;
+    flex-direction: column;
+   
+    
+   
+}
+
+.mainContainer{
+
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    
+    
+    
+}

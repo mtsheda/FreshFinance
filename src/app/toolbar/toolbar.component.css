@@ -1,0 +1,24 @@
+app-fresh-finance{
+
+  
+    width: 15%;
+}
+
+app-links{
+
+   
+    width: 55%;
+    display:flex;
+    align-items: center;
+    
+}
+
+app-login{
+
+   
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
