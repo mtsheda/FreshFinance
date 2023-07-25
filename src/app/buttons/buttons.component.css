@@ -5,14 +5,14 @@ button{
     border-radius: 45px;
     border: none;
     color: white;
-    background-color: rgb(9,142,160);
+    background-color:var(--btnsColor);
 }
 .button2{
 
     width: 15%;
     height: 3em;
     border-radius: 45px;
-    border: 1px solid blue;
-    color: blue;
+    border: 1px solid var(--btnsColor);
+    color: var(--btnsColor);
     background-color: transparent;
 }

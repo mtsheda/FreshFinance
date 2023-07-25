@@ -10,11 +10,15 @@ button{
 
 .getInTouch{
 
-    background-color: rgb(9, 142, 160);
+    background-color:var(--btnsColor);
     border: none;
-    height: 50%;
+    height: 60%;
     width: 40%;
     color: white;
     border-radius: 5%;
     font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
 }

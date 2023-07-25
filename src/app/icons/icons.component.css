@@ -26,6 +26,6 @@ app-put-client-first{
 
     
     height: 30%;
-    display: flex;
+    display: var(--flexing);
     justify-content: space-between;
 }

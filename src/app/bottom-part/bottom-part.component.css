@@ -2,8 +2,8 @@
 app-advice{
 
     height: 40%;
-    display: flex;
-    flex-direction: column;
+    display: var(--flexing);
+    flex-direction: var(--direction);
     justify-content: flex-end;
     align-content: flex-end;
     justify-items: flex-end;
@@ -12,18 +12,18 @@ app-advice{
 
 app-icons{
 
-    display: flex;
-    flex-direction: column;
+    display: var(--flexing);
+    flex-direction: var(--direction);
     height: 50%;
-    gap: 2em;
-    flex-direction: column;
+    gap: 3em;
+    
     padding-right: 15%;
 }
 
 app-bottm-buttons{
     padding-top: 5.5%;
     height: 10%;
-    display: flex;
+    display: var(--flexing);
     gap: 1em;
 }
 
