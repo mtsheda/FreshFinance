@@ -28,4 +28,5 @@ app-put-client-first{
     height: 30%;
     display: var(--flexing);
     justify-content: space-between;
+    background-color: #fafafa;
 }

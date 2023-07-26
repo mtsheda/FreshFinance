@@ -4,10 +4,12 @@ a{
     text-decoration: none;
     font-size: .7em;
     gap: 2em;
+    font-weight: 500;
 }
 
 .myLinks{
 
     display: flex;
     gap: 1em;
+    
 }

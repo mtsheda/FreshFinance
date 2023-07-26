@@ -22,3 +22,9 @@ button{
     align-content: center;
 
 }
+
+app-mat-icon{
+
+    display: flex;
+    align-items: center;
+}

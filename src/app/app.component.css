@@ -1,36 +1,30 @@
-app-top-part{
+.mainContainer{
+    height: 100vh;
+    background-color: white;
+    display: var(--flexing);
+    flex-direction: var(--direction);
+    padding-left: 10%;     
+}
 
+.mainContainer{
+        
+   
+}
+
+
+app-top-part{
    background-image:linear-gradient(to right,white ,transparent),url(../assets/black-and-white-bussines-1024x531.jpg);
     background-position: inherit;
     background-size: cover;
     background-repeat: no-repeat;
     height: 55%;
     width: 100%;
-    display: var(--flexing);
-    flex-direction: var(--direction);
-    
-    
+      
 }
 
 app-bottom-part{
-
-    
     height: 45%;
     display: var(--flexing);
-    flex-direction: var(--direction);
-   
-    
-   
+    flex-direction: var(--direction); 
 }
 
-.mainContainer{
-
-    height: 100vh;
-    background-color: white;
-    display: var(--flexing);
-    flex-direction: var(--direction);
-    padding-left: 10%;
-    
-    
-    
-}
